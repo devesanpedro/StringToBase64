@@ -1,0 +1,15 @@
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\bin\Debug\net6.0\StringToBase64.Application.deps.json
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\bin\Debug\net6.0\StringToBase64.Application.dll
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\bin\Debug\net6.0\StringToBase64.Application.pdb
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\bin\Debug\net6.0\StringToBase64.Common.dll
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\bin\Debug\net6.0\StringToBase64.Common.pdb
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\StringToBase64.Application.csproj.AssemblyReference.cache
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\StringToBase64.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\StringToBase64.Application.AssemblyInfoInputs.cache
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\StringToBase64.Application.AssemblyInfo.cs
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\StringToBase64.Application.csproj.CoreCompileInputs.cache
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\StringToBase64.Application.csproj.CopyComplete
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\StringToBase64.Application.dll
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\refint\StringToBase64.Application.dll
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\StringToBase64.Application.pdb
+D:\Projects\StringToBase64\StringToBase64\StringToBase64.Application\obj\Debug\net6.0\ref\StringToBase64.Application.dll

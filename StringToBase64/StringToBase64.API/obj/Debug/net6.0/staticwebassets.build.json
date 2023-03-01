@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EboS6S0IqUVyOAl14to0zIlB0QvoStm2eGDxmQfF/7c=",
+  "Source": "StringToBase64.API",
+  "BasePath": "_content/StringToBase64.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
